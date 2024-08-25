@@ -4,4 +4,4 @@ def findFactor(x):
        if x % i == 0:
            print(i)
 
-findFactor(71)
+findFactor(x)
